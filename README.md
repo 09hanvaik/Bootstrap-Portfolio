@@ -12,7 +12,7 @@ Please view the 'Credits' section below for the sources I used to implement my i
 https://09hanvaik.github.io/Bootstrap-Portfolio/
 
 ## Screenshot of site
-![Screenshot of my portfolio website](.\images\site-screenshot-3.png)
+![Screenshot of my portfolio website](images\site-screenshot-3.png)
 
 ## Installation
 
